@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.nam
+*.tr
+*.trace
+*.pcap
+*.pcapng
+.DS_Store
